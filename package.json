@@ -1,0 +1,23 @@
+{
+  "name": "WatchesBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "bufferutil": "^3.0.0",
+    "discord.io": "^2.5.1",
+    "discord.js": "^11.1.0",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "libsodium-wrappers": "^0.5.1",
+    "node-opus": "^0.2.6",
+    "node.js": "0.0.0",
+    "opusscript": "0.0.3",
+    "uws": "^0.14.5",
+    "winston": "^2.3.1"
+  }
+}
